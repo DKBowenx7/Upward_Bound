@@ -1,0 +1,116 @@
+Student,Sex,birth_year,zip,P2015-2016,P2016-2017,P2017-2018,P2018-2019,P2019-2020,P2020-2021,P2021-2022,hs_grad
+DW,M,2001,13206,X,X,X,Discontinued,Unknown,Unknown,Unknown,X
+NS,M,2001,13206,X,X,X,X,In College,In College,In College ,X
+KS,F,2000,13210,X,X,X,X,In College,In College,In College ,X
+KR,F,2001,13205,X,X,X,X,In College,In College,In College ,X
+AR,M,2001,13204,X,X,Discontinued,Discontinued,In College,Unknown,Unknown,X
+KR,F,2001,13210,X,X,X,X,In College,Unknown,Unknown,X
+AP,F,2000,13224,X,X,X,X,In College,In College,In College ,X
+TN,M,2001,13208,X,X,X,X,In College,In College,In College ,X
+EM,F,2001,13203,X,X,X,X,In College,In College,In College ,X
+JN,F,2001,13203,X,X,X,X,In College,In College,In College ,X
+KM,F,2001,13202,X,X,X,X,In College,In College,In College ,X
+AM,M,2000,13202,X,X,X,X,In College,In College,In College ,X
+JM,M,2001,13204,X,X,X,X,Joined Military,Unknown,Unknown,X
+HL,M,2001,13208,X,Discontinued,Discontinued,Discontinued,Unknown,Unknown,Unknown,X
+TL,F,2001,13210,X,X,X,X,In College,In College,In College ,X
+PK,F,2000,13224,X,X,Discontinued,Discontinued,Unknown,Unknown,Unknown,Unknown
+MH,M,2000,13210,X,X,X,X,In College,Unknown,Unknown,X
+AH,F,2001,13212,X,X,X,X,In College,In College,In College ,X
+MH,F,1999,13208,X,X,X,X,In College,In College,In College ,X
+JH,F,2001,13207,X,X,X,X,In College,In College,In College ,X
+FG,F,2001,13203,X,X,Moved,Moved,Unknown,Unknown,Unknown,Unknown
+JD,M,1999,13208,X,X,X,X,In College,Unknown,Unknown,X
+CC,F,2001,13207,X,X,X,X,In College,In College,Unknown,X
+TB,M,2001,13203,X,X,X,X,In College,Unknown,Unknown,X
+RA,F,1999,13224,X,X,X,X,In College,Unknown,Unknown,X
+MA,M,2001,13204,X,X,X,X,In College,In College,In College ,X
+TW,M,2002,13208,n_a,X,X,X,X,In College,In College,X
+AW,F,2002,13204,n_a,X,X,X,X,In College,Not In College (Military),X
+AT,M,2002,13208,n_a,X,Moved,Moved,Moved,In College,In College,Moved
+LS,F,2002,13208,n_a,X,X,X,X,In College,In College,X
+PQ,F,2000,13214,n_a,X,X,X,X,In College,In College,X
+HO,F,2002,13202,n_a,X,X,X,X,In College,In College,X
+KN,F,2002,13208,n_a,n_a,X,X,Discontinued,Unknown,Unknown,X
+HM,M,2002,13210,n_a,X,X,X,X,In College,In College,X
+NM,F,2002,13208,n_a,X,X,X,X,In College,In College,X
+EM,M,2002,13208,n_a,X,X,X,X,In College,Not in College,X
+SM,F,2002,13208,n_a,X,X,X,X,In College,In College,X
+BM,F,2002,13208,n_a,X,X,X,X,In College,In College,X
+RM,F,2002,13208,n_a,X,X,X,X,In College,In College,X
+CM,F,2002,13207,n_a,X,X,X,X,In College,In College,X
+KJ,F,2001,13205,n_a,X,X,X,X,In College,In College,X
+AH,F,2002,13206,n_a,X,X,Discontinued,Discontinued,In College,Unknown,X
+EH,M,2002,13206,n_a,X,X,X,X,"Accepted, did not enroll",Not in College,X
+RD,F,2002,13203,n_a,X,X,X,X,In College,Not in College,X
+ID,F,2002,13210,n_a,X,X,Discontinued,Discontinued,In College,In College,X
+ID2,M,2002,13205,n_a,X,X,Discontinued,Discontinued,Unknown,Unknown,X
+ND,F,2001,13205,n_a,X,X,Discontinued,Discontinued,Unknown,Unknown,Unknown
+LD,F,2002,13208,n_a,X,X,X,X,In College,In College,X
+MG,M,2002,13208,n_a,X,X,X,X,In College,In College,X
+RB,M,2002,13208,n_a,X,X,X,X,In College,In College,X
+AA,M,2002,13208,n_a,X,X,X,X,In College,In College,X
+LA,M,2002,13206,n_a,X,X,X,X,In College,In College,X
+CA,F,2001,13208,n_a,X,X,X,X,In College,In College,X
+HA  ,F,2002,13210,n_a,n_a,X,X,X,X, In College,X
+MA,F,2004,13224,n_a,n_a,X,X,X,X, In College,X
+HA2,F,2003,13210,n_a,n_a,X,X,X,X, In College,X
+AB,F,2003,13208,n_a,n_a,X,X,X,X, In College,X
+PC,F,2003,13206,n_a,n_a,X,X,X,Moved,Unknown,Unknown
+RC,F,2002,13203,n_a,n_a,X,X,X,X, In College,X
+RD,M,2003,13208,n_a,n_a,X,X,X,X,"Started, but not in college full year",X
+PD,F,2001,13203,n_a,n_a,X,X,X,X, In College,X
+SK,F,2003,13210,n_a,n_a,X,X,X,X, In College,X
+MF,M,2002,13224,n_a,n_a,n_a,X,Discontinued,Discontinued,Unknown,X
+YS,M,2003,13202,n_a,n_a,X,X,X,X,"Started, but not in college full year",X
+LJ,F,2003,13202,n_a,n_a,X,X,X,X, In College,X
+TJ,F,2003,13205,n_a,n_a,X,X,X,X, In College,X
+KK,F,2002,13208,n_a,n_a,X,X,X,X, In College,X
+SK,F,2003,13208,n_a,n_a,X,X,X,X, In College,X
+PM,M,2003,13204,n_a,n_a,X,X,X,Discontinued,Unknown,X
+MM,M,2002,13203,n_a,n_a,X,X,X,X, In College,X
+HM,M,2003,13208,n_a,n_a,X,X,X,X, In College,X
+SN  ,F,2003,13206,n_a,n_a,X,X,X,X, In College,X
+NT,F,2003,13208,n_a,n_a,X,X,X,X, In College,X
+HN ,M,2003,13208,n_a,n_a,X,X,X,X, In College,X
+NN ,F,2003,13224,n_a,n_a,n_a,X,X,X, In College,X
+CP,F,2003,13205,n_a,n_a,X,X,X,X, In College,X
+MR,F,2003,13207,n_a,n_a,X,X,X,X, In College,X
+MR2,M,2003,13214,n_a,n_a,n_a,X,X,X,In College ,X
+AR,F,2003,13205,n_a,n_a,n_a,X,X,Discontinued,Unknown,X
+HS,F,2003,13224,n_a,n_a,X,X,X,X, In College,X
+SS,F,2003,13224,n_a,n_a,n_a,X,Discontinued,Discontinued,Unknown,X
+ES,F,2003,13203,n_a,n_a,X,X,X,X, In College,X
+SS,F,2002,13224,n_a,n_a,X,Discontinued,Discontinued,Discontinued,Unknown,Unknown
+TT,F,2003,13205,n_a,n_a,X,X,X,X, In College,X
+JA,M,2003,13203,n_a,n_a,n_a,X,X,X,X,X
+EC,F,2004,13206,n_a,n_a,n_a,X,X,Discontinued,Discontinued,X
+JH,M,2004,13202,n_a,n_a,n_a,X,X,Discontinued,Discontinued,X
+BH,F,2004,13205,n_a,n_a,n_a,X,X,X,X,X
+BH2,M,2004,13208,n_a,n_a,n_a,X,X,X,X,X
+LJ,F,2004,13207,n_a,n_a,n_a,X,X,X,X,X
+SM,F,2004,13203,n_a,n_a,n_a,X,X,X,X,X
+LM,M,2003,13210,n_a,n_a,n_a,X,X,X,X,X
+AM,M,2004,13208,n_a,n_a,n_a,X,Discontinued,Discontinued,Discontinued,X
+SM2,M,2004,13203,n_a,n_a,n_a,X,X,X,X,X
+TO,F,2004,13207,n_a,n_a,n_a,X,X,X,X,X
+SP,F,2004,13210,n_a,n_a,n_a,X,X,Discontinued,Discontinued,X
+CR,F,2004,13224,n_a,n_a,n_a,X,X,X,X,X
+CT,F,2004,13206,n_a,n_a,n_a,X,X,X,X,X
+TW,F,2004,13207,n_a,n_a,n_a,X,X,X,X,X
+DZ,F,2004,13202,n_a,n_a,n_a,X,X,X,X,X
+KL,F,2005,13208,n_a,n_a,n_a,n_a,X,X,X,Current Senior
+RW,M,2005,13208,n_a,n_a,n_a,n_a,X,X,X,Current Senior
+SS,F,2005,13210,n_a,n_a,n_a,n_a,X,X,X,Current Senior
+MG,M,2005,13205,n_a,n_a,n_a,n_a,X,X,X,Current Senior
+HA,F,2005,13214,n_a,n_a,n_a,n_a,X,X,X,Current Senior
+AK,F,2005,13214,n_a,n_a,n_a,n_a,X,X,X,Current Senior
+NS,F,2005,13207,n_a,n_a,n_a,n_a,X,X,X,Current Senior
+SF,M,2005,13210,n_a,n_a,n_a,n_a,n_a,X,X,Current Senior
+AN,M,2005,13205,n_a,n_a,n_a,n_a,X,X,X,Current Senior
+LM,M,2005,13210,n_a,n_a,n_a,n_a,n_a,X,X,Current Senior
+HA,F,2005,13208,n_a,n_a,n_a,n_a,X,X,X,Current Senior
+ZA,M,2005,13208,n_a,n_a,n_a,n_a,X,X,X,Current Senior
+KY,F,2005,13208,n_a,n_a,n_a,n_a,n_a,X,X,Current Senior
+DJ,F,2005,13210,n_a,n_a,n_a,n_a,X,X,X,Current Senior
+ZM,M,2005,13208,n_a,n_a,n_a,n_a,X,X,X,Current Senior
