@@ -89,6 +89,7 @@ male_final = final[final.Sex != "F"]
 male_final = male_final['zip'].value_counts().reset_index().set_axis(['zip',
                                 'The Total Number of Male Students'], axis=1)
 
+
 print("\n Total Number of Males Per Zip Code")
 print(male_final)
 
@@ -101,19 +102,37 @@ crime_male = crime_male.dropna()
 print(crime_male)
 
 #crime_male.plot.scatter(x = 'zip', y ='Number of Crimes Committed', s = 100)
-#crime_male.plot.scatter(x = 'zip', y ="The Total Number of Male Students", s = 100)
+#crime_male.plot.scatter(x = 'zip', y ="The Total Number of Male Students", 
+# s = 100)
 
 
-# Creating a scatterplot
+# Creating a scatterplot to see if there is any relationship between the number
+# of crimes committed and the total number of male students.
 
-ax = crime_male.plot(kind='scatter', x='zip', y='Number of Crimes Committed', 
-                     color='r', label="Zip vs. # Of Crimes")    
-crime_male.plot(kind='scatter', x='zip', y="The Total Number of Male Students",
-                color='g', label="Zip vs. # Of Male Students", ax=ax)    
-ax.set_xlabel("Zip")
-ax.set_ylabel("Number of Crimes/Students")
-plt.title("Male Participation vs Crime Rates")
-plt.show()
+fig,ax=plt.subplots()
+
+crime_male.plot.scatter(x="Number of Crimes Committed",
+                y = "The Total Number of Male Students",ax=ax)
+ax.set_title("Male_Participation_vs_Crime_Rates")
+fig.tight_layout()
+fig.savefig("Male_Participation_vs_Crime_Rates.png")
+
+
+
+# Creating a regression to see if there is any statisitical significance
+
+fig,ax=plt.subplots()
+
+sns.regplot(data=crime_male,x ="Number of Crimes Committed",
+                y = "The Total Number of Male Students",ax=ax)
+ax.set_title("Male_crime_regression")
+fig.tight_layout()
+fig.savefig("Male_crime_regression.png")
+
+
+
+
+#%%
 
 
 
