@@ -90,7 +90,8 @@ male_final = male_final['zip'].value_counts().reset_index().set_axis(['Zip',
 
 print("\n Total Number of Males Per Zip Code")
 print(male_final)
-male_final.plot.scatter(x = 'Zip', y = 'The Total Number of Male Students', s = 100)
+male_final.plot.scatter(x = 'Zip', y = 'The Total Number of Male Students', 
+                        s = 100)
 
 
 #Combining male and female students to see the aggregated total of pupils 

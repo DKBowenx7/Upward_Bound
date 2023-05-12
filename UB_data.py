@@ -146,7 +146,7 @@ zip_gender.plot(x="Zip", y=["Number of Male Students",
 plt.xlabel("Students'Home Zip Code")
 plt.ylabel("Male vs Females")
 plt.title("Upward Bound Students' Per Home Zip Code")
-plt.savefig("Upward Bound Students Per Zip Code")
+plt.savefig("Students_Per_Zip_Code.png")
 plt.show()
 
 
@@ -220,7 +220,7 @@ true_dropped.plot(x="P2020", y=["Number of Male Students",
 plt.xlabel("Participation Year 2020-2021")
 plt.ylabel("Number of Males vs Females In The Program")
 plt.title("Male vs Female Status In The Program")
-plt.savefig("Male_vs_Female_Status")
+plt.savefig("Male_vs_Female_Status.png")
 plt.show()
 
 #%%

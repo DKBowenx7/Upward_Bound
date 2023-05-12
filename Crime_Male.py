@@ -18,7 +18,8 @@ import geopy
 plt.rcParams["figure.dpi"] = 300
 
 
-crime_2018 = gpd.read_file("Crime_Data_2018_-_Part_1_Offenses_(With_Lat_%26_Long_Info).zip")
+crime_2018 = gpd.read_file(
+    "Crime_Data_2018_-_Part_1_Offenses_(With_Lat_%26_Long_Info).zip")
 crime_2018["ADDRESS"] = crime_2018["ADDRESS"] + ", Syracuse, NY"
 
 crime_2018['lon'] = crime_2018['geometry'].x
@@ -82,7 +83,8 @@ print(crime_2018)
 
 
 #crime.columns = ["Crime Type", "Number of Crimes Committed"]
-crime = crime_2018["Zip_Code"].value_counts().rename_axis('zip').reset_index(name='Number of Crimes Committed')
+crime = crime_2018["Zip_Code"].value_counts().rename_axis('zip').reset_index(
+    name='Number of Crimes Committed')
 print(crime)
 
 male_final = final[final.Sex != "F"]
