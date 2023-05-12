@@ -150,7 +150,6 @@ plt.savefig("Students_Per_Zip_Code.png")
 plt.show()
 
 
-
 #%%
 #Calculating students who dropped the program
 
